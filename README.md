@@ -1,5 +1,5 @@
 # Zomato Data Analysis Dashboard
-
+![Zomato Dashboard](Images/New%20Project%20(15).jpg)
 ## Project Overview
 This project analyzes Zomato restaurant data using Power BI to generate meaningful business insights.
 
