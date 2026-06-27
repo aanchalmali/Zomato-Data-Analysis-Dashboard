@@ -1,0 +1,151 @@
+RestaurantID,RestaurantName,City,CuisineType,Rating
+R101,The Great Diner,Ahmedabad,Mexican,3.0
+R102,Hot Cafe,Ahmedabad,Bakery,4.6
+R103,The Great Bowl,Pune,Fast Food,4.5
+R104,Magic Kitchen,Bhopal,Bakery,5.0
+R105,Spice Kitchen,Ahmedabad,Chinese,3.0
+R106,Classic Hub,Chennai,North Indian,4.7
+R107,Magic Wok,Pune,Indian,3.8
+R108,Tasty Palace,Kolkata,Chinese,3.5
+R109,Urban Hub,Hyderabad,Bakery,4.0
+R110,Hot Kitchen,Hyderabad,Fast Food,3.5
+R111,Classic Cafe,Delhi,South Indian,3.2
+R112,The Great Kitchen,Bhopal,Chinese,4.6
+R113,The Great Delight,Bhopal,Fast Food,3.3
+R114,Urban Point,Bangalore,South Indian,3.1
+R115,Red Wok,Indore,Italian,3.7
+R116,Urban Wok,Hyderabad,Mexican,4.5
+R117,Golden Bowl,Chennai,Indian,4.3
+R118,Blue Bowl,Indore,Italian,4.2
+R119,Blue Kitchen,Bhopal,North Indian,4.9
+R120,Urban Point,Pune,North Indian,4.9
+R121,Red Treat,Indore,Italian,3.7
+R122,Classic Kitchen,Bhopal,Chinese,3.4
+R123,Magic Delight,Bhopal,Mexican,3.1
+R124,Hot Treat,Kolkata,Chinese,3.3
+R125,Spice Garden,Ahmedabad,Fast Food,3.9
+R126,Urban Bowl,Indore,Chinese,4.1
+R127,The Great Cafe,Indore,Fast Food,3.1
+R128,Classic Wok,Kolkata,Continental,3.6
+R129,Silver Palace,Pune,North Indian,3.3
+R130,Urban Diner,Mumbai,Continental,3.2
+R131,Tasty Hub,Bhopal,Italian,3.7
+R132,Royal Wok,Kolkata,Indian,3.7
+R133,Red Palace,Ahmedabad,South Indian,3.7
+R134,Classic Cafe,Ahmedabad,Chinese,3.9
+R135,Tasty Point,Chennai,North Indian,4.8
+R136,Royal Wok,Ahmedabad,Bakery,4.2
+R137,Spice Diner,Bhopal,Fast Food,3.5
+R138,Magic Hub,Mumbai,Italian,4.9
+R139,Red Hub,Bangalore,North Indian,3.4
+R140,Royal Point,Indore,South Indian,4.4
+R141,Silver Treat,Chennai,South Indian,4.9
+R142,Magic Cafe,Ahmedabad,Continental,3.1
+R143,Spice Cafe,Bangalore,Chinese,3.9
+R144,Urban Delight,Bangalore,Continental,3.4
+R145,The Great Point,Pune,Fast Food,4.8
+R146,Tasty Treat,Kolkata,South Indian,4.7
+R147,Urban Palace,Bangalore,Bakery,3.2
+R148,Spice Hub,Ahmedabad,Chinese,3.7
+R149,Urban Garden,Mumbai,North Indian,3.1
+R150,Royal Cafe,Chennai,Chinese,3.3
+R151,Red Delight,Hyderabad,Continental,4.4
+R152,Golden Kitchen,Indore,Chinese,4.9
+R153,Royal Treat,Mumbai,North Indian,4.1
+R154,Blue Garden,Bhopal,Continental,3.2
+R155,Tasty Kitchen,Kolkata,North Indian,4.5
+R156,Hot Point,Hyderabad,North Indian,3.4
+R157,Urban Diner,Indore,Continental,3.0
+R158,Blue Cafe,Ahmedabad,Mexican,4.2
+R159,Tasty Delight,Hyderabad,Chinese,3.8
+R160,Blue Wok,Delhi,Continental,3.7
+R161,Silver Wok,Indore,Italian,3.4
+R162,The Great Point,Bangalore,Chinese,4.1
+R163,Spice Hub,Chennai,Fast Food,4.9
+R164,Blue Bites,Pune,North Indian,4.4
+R165,Magic Kitchen,Chennai,Chinese,4.2
+R166,Blue Garden,Delhi,Chinese,4.8
+R167,Blue Diner,Chennai,Indian,4.9
+R168,Spice Garden,Ahmedabad,Indian,3.9
+R169,Red Palace,Kolkata,Italian,3.1
+R170,The Great Garden,Mumbai,North Indian,4.3
+R171,Classic Cafe,Pune,South Indian,3.9
+R172,Urban Bites,Indore,Chinese,3.8
+R173,The Great Palace,Indore,Mexican,3.0
+R174,Royal Cafe,Pune,Italian,3.9
+R175,Magic Wok,Bangalore,South Indian,3.6
+R176,Blue Diner,Delhi,Mexican,3.1
+R177,Classic Cafe,Delhi,Indian,3.1
+R178,Silver Bowl,Ahmedabad,Fast Food,3.8
+R179,Spice Treat,Ahmedabad,South Indian,4.7
+R180,The Great Delight,Chennai,South Indian,4.3
+R181,Hot Bowl,Hyderabad,Italian,4.6
+R182,Golden Hub,Mumbai,South Indian,4.9
+R183,Tasty Kitchen,Pune,South Indian,3.6
+R184,Golden Bowl,Ahmedabad,Indian,4.0
+R185,Tasty Kitchen,Kolkata,Continental,4.0
+R186,Magic Cafe,Delhi,Indian,3.7
+R187,Tasty Kitchen,Chennai,Chinese,4.0
+R188,Red Cafe,Bangalore,Indian,4.6
+R189,Hot Bowl,Bangalore,North Indian,3.4
+R190,Tasty Treat,Bangalore,North Indian,4.1
+R191,Urban Bowl,Bhopal,Fast Food,3.6
+R192,Hot Cafe,Mumbai,Italian,3.5
+R193,The Great Diner,Chennai,South Indian,4.8
+R194,Urban Cafe,Mumbai,Continental,3.7
+R195,Silver Cafe,Bhopal,Bakery,4.2
+R196,Hot Treat,Bangalore,Continental,4.1
+R197,Blue Diner,Pune,Continental,3.2
+R198,Blue Treat,Chennai,Continental,3.6
+R199,The Great Diner,Mumbai,Italian,4.2
+R200,Spice Diner,Pune,Bakery,3.8
+R201,Spice Delight,Bhopal,South Indian,3.7
+R202,Royal Cafe,Chennai,North Indian,4.4
+R203,Red Diner,Mumbai,Mexican,4.7
+R204,Blue Kitchen,Hyderabad,Fast Food,4.2
+R205,Tasty Hub,Ahmedabad,Chinese,3.7
+R206,Tasty Cafe,Delhi,Indian,3.8
+R207,Urban Hub,Bhopal,Fast Food,4.0
+R208,Royal Garden,Ahmedabad,South Indian,4.2
+R209,Golden Bites,Bangalore,Indian,4.4
+R210,Hot Delight,Bangalore,Continental,3.5
+R211,Golden Bowl,Bangalore,Mexican,4.1
+R212,Spice Garden,Indore,Italian,4.6
+R213,Magic Wok,Delhi,Mexican,4.5
+R214,Spice Treat,Bangalore,Continental,3.1
+R215,Classic Palace,Delhi,Italian,4.7
+R216,Hot Treat,Delhi,Fast Food,3.7
+R217,The Great Treat,Bhopal,Fast Food,4.7
+R218,Urban Delight,Mumbai,Bakery,4.1
+R219,Red Delight,Chennai,Mexican,4.3
+R220,Spice Hub,Kolkata,Mexican,3.7
+R221,Hot Wok,Ahmedabad,Fast Food,4.8
+R222,Royal Bites,Delhi,Continental,3.7
+R223,Magic Delight,Ahmedabad,Chinese,4.2
+R224,Golden Bites,Ahmedabad,Mexican,3.9
+R225,Blue Treat,Hyderabad,Italian,3.7
+R226,Blue Kitchen,Kolkata,Mexican,3.3
+R227,Royal Palace,Chennai,Indian,3.3
+R228,Hot Point,Kolkata,Bakery,4.8
+R229,Magic Cafe,Kolkata,Indian,4.4
+R230,Magic Cafe,Pune,Italian,3.5
+R231,Red Diner,Delhi,Fast Food,3.4
+R232,Hot Garden,Pune,Fast Food,3.6
+R233,Classic Bites,Delhi,South Indian,4.3
+R234,Magic Bites,Delhi,Fast Food,4.0
+R235,Classic Hub,Kolkata,Indian,4.5
+R236,Red Treat,Bangalore,Chinese,3.2
+R237,Tasty Delight,Ahmedabad,Fast Food,3.5
+R238,Spice Point,Indore,South Indian,4.4
+R239,Royal Palace,Pune,Italian,3.9
+R240,Golden Delight,Bhopal,Continental,4.8
+R241,Spice Bites,Kolkata,Chinese,4.6
+R242,Urban Treat,Chennai,Continental,4.4
+R243,Tasty Cafe,Bhopal,Indian,3.8
+R244,Classic Bites,Hyderabad,Italian,4.1
+R245,Tasty Wok,Pune,Continental,4.9
+R246,Blue Kitchen,Delhi,Mexican,3.9
+R247,Golden Kitchen,Chennai,Fast Food,3.5
+R248,Golden Bites,Indore,North Indian,3.6
+R249,Royal Hub,Chennai,Bakery,4.9
+R250,Silver Palace,Bhopal,Fast Food,4.7

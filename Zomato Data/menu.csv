@@ -1,0 +1,866 @@
+MenuID,RestaurantID,ItemName,Category,Price
+M301,R101,Crispy Tacos,Tacos,340
+M302,R101,French Fries,Sides,100
+M303,R101,Onion Rings,Sides,230
+M304,R101,Garlic Bread,Sides,200
+M305,R101,Spicy Burrito,Burritos,370
+M306,R102,Mango Shake,Beverages,190
+M307,R102,Mojito,Beverages,180
+M308,R102,Mojito,Beverages,230
+M309,R102,Vanilla Cake,Cakes,270
+M310,R102,Cheesecake,Desserts,200
+M311,R102,Gulab Jamun,Desserts,160
+M312,R103,French Fries,Sides,100
+M313,R103,Mango Shake,Beverages,150
+M314,R103,Crispy Burger,Burger,360
+M315,R103,Potato Wedges,Sides,120
+M316,R103,Double Patty Burger,Burger,180
+M317,R103,Lemonade,Beverages,240
+M318,R103,Chicken Burger,Burger,380
+M319,R103,Crispy Burger,Burger,380
+M320,R104,Fruit Cake,Cakes,200
+M321,R104,Black Forest,Cakes,170
+M322,R104,Iced Tea,Beverages,200
+M323,R104,Tiramisu,Desserts,100
+M324,R105,Fried Rice,Rice,370
+M325,R105,Paneer Tikka,Starters,120
+M326,R105,Manchow Rice,Rice,370
+M327,R105,Pulao,Rice,390
+M328,R105,Chicken Wings,Starters,100
+M329,R105,Pad Thai,Noodles,290
+M330,R106,Ice Cream,Desserts,160
+M331,R106,Tiramisu,Desserts,110
+M332,R106,Spring Rolls,Starters,170
+M333,R106,Dal Makhani,Main Course,550
+M334,R106,Paneer Tikka,Starters,90
+M335,R106,Chicken Wings,Starters,220
+M336,R107,Naan,Breads,240
+M337,R107,Chilli Potato,Starters,230
+M338,R107,Grilled Fish,Main Course,340
+M339,R107,Chicken Tikka Masala,Main Course,390
+M340,R107,Paneer Butter Masala,Main Course,580
+M341,R108,Pad Thai,Noodles,330
+M342,R108,Nachos,Starters,170
+M343,R108,Hakka Noodles,Noodles,400
+M344,R108,Nachos,Starters,100
+M345,R108,Chilli Potato,Starters,130
+M346,R108,Pan Fried Noodles,Noodles,260
+M347,R109,Chocolate Cake,Cakes,200
+M348,R109,Cold Coffee,Beverages,200
+M349,R109,Iced Tea,Beverages,130
+M350,R109,Brownie,Desserts,190
+M351,R109,Lemonade,Beverages,210
+M352,R109,Cold Coffee,Beverages,170
+M353,R110,Cheese Burger,Burger,210
+M354,R110,French Fries,Sides,150
+M355,R110,Potato Wedges,Sides,180
+M356,R110,Iced Tea,Beverages,190
+M357,R110,Garlic Bread,Sides,140
+M358,R110,Garlic Bread,Sides,170
+M359,R110,Cheese Dip,Sides,210
+M360,R110,Cold Coffee,Beverages,220
+M361,R111,Chicken Tikka Masala,Main Course,220
+M362,R111,Upma,Breakfast,170
+M363,R111,Masala Dosa,Breakfast,210
+M364,R111,Mojito,Beverages,240
+M365,R112,Hakka Noodles,Noodles,200
+M366,R112,Fried Rice,Rice,290
+M367,R112,Nachos,Starters,210
+M368,R112,Schezwan Fried Rice,Rice,220
+M369,R112,Schezwan Fried Rice,Rice,260
+M370,R112,Jeera Rice,Rice,310
+M371,R112,Pan Fried Noodles,Noodles,300
+M372,R113,Iced Tea,Beverages,120
+M373,R113,Potato Wedges,Sides,140
+M374,R113,Onion Rings,Sides,170
+M375,R113,Crispy Burger,Burger,380
+M376,R113,Potato Wedges,Sides,110
+M377,R114,Paneer Butter Masala,Main Course,220
+M378,R114,Masala Dosa,Breakfast,200
+M379,R114,Chicken Tikka Masala,Main Course,370
+M380,R114,Poha,Breakfast,180
+M381,R115,Nachos,Starters,200
+M382,R115,Pesto Pasta,Pasta,210
+M383,R115,Alfredo Pasta,Pasta,400
+M384,R115,Margherita Pizza,Pizza,310
+M385,R115,Spring Rolls,Starters,110
+M386,R115,Margherita Pizza,Pizza,260
+M387,R115,Spring Rolls,Starters,200
+M388,R115,Veg Supreme Pizza,Pizza,340
+M389,R116,Onion Rings,Sides,130
+M390,R116,Veg Tacos,Tacos,280
+M391,R116,Fish Tacos,Tacos,190
+M392,R116,Crispy Tacos,Tacos,370
+M393,R116,Soft Tacos,Tacos,380
+M394,R116,Spicy Burrito,Burritos,380
+M395,R117,Nachos,Starters,240
+M396,R117,Chicken Tikka Masala,Main Course,370
+M397,R117,Naan,Breads,390
+M398,R117,Chicken Tikka Masala,Main Course,350
+M399,R117,Roti,Breads,360
+M400,R117,Kulcha,Breads,280
+M401,R117,Paratha,Breads,230
+M402,R117,Nachos,Starters,150
+M403,R118,Lasagna,Pasta,360
+M404,R118,Nachos,Starters,160
+M405,R118,Arrabbiata Pasta,Pasta,280
+M406,R118,Pepperoni Pizza,Pizza,420
+M407,R118,Mac and Cheese,Pasta,340
+M408,R118,Nachos,Starters,120
+M409,R119,Chilli Potato,Starters,160
+M410,R119,Ice Cream,Desserts,130
+M411,R119,Ice Cream,Desserts,210
+M412,R119,Paneer Tikka,Starters,160
+M413,R120,Chicken Wings,Starters,240
+M414,R120,Gulab Jamun,Desserts,180
+M415,R120,Cheesecake,Desserts,190
+M416,R120,Gulab Jamun,Desserts,250
+M417,R120,Chicken Tikka Masala,Main Course,390
+M418,R120,Chilli Potato,Starters,220
+M419,R121,Veg Supreme Pizza,Pizza,290
+M420,R121,Pesto Pasta,Pasta,320
+M421,R121,Nachos,Starters,160
+M422,R121,Farmhouse Pizza,Pizza,400
+M423,R121,Pepperoni Pizza,Pizza,310
+M424,R121,Lasagna,Pasta,220
+M425,R122,Chicken Wings,Starters,100
+M426,R122,Spring Rolls,Starters,150
+M427,R122,Spring Rolls,Starters,160
+M428,R122,Chilli Garlic Noodles,Noodles,160
+M429,R122,Spring Rolls,Starters,80
+M430,R123,Spicy Burrito,Burritos,250
+M431,R123,Chicken Burrito,Burritos,160
+M432,R123,Garlic Bread,Sides,80
+M433,R123,Soft Tacos,Tacos,350
+M434,R123,Crispy Tacos,Tacos,320
+M435,R123,Veg Tacos,Tacos,400
+M436,R123,Cheese Dip,Sides,110
+M437,R123,Crispy Tacos,Tacos,320
+M438,R124,Paneer Tikka,Starters,120
+M439,R124,Schezwan Fried Rice,Rice,260
+M440,R124,Schezwan Noodles,Noodles,320
+M441,R124,Manchow Rice,Rice,270
+M442,R125,Onion Rings,Sides,130
+M443,R125,Double Patty Burger,Burger,240
+M444,R125,Lemonade,Beverages,220
+M445,R125,Chicken Burger,Burger,240
+M446,R125,Crispy Burger,Burger,160
+M447,R125,Garlic Bread,Sides,90
+M448,R125,Onion Rings,Sides,170
+M449,R125,French Fries,Sides,180
+M450,R126,Paneer Tikka,Starters,110
+M451,R126,Manchow Rice,Rice,260
+M452,R126,Pad Thai,Noodles,220
+M453,R126,Paneer Tikka,Starters,150
+M454,R126,Jeera Rice,Rice,330
+M455,R126,Schezwan Noodles,Noodles,270
+M456,R126,Chilli Garlic Noodles,Noodles,290
+M457,R126,Hakka Noodles,Noodles,340
+M458,R127,Garlic Bread,Sides,150
+M459,R127,Crispy Burger,Burger,160
+M460,R127,Chicken Burger,Burger,340
+M461,R127,Lemonade,Beverages,130
+M462,R127,Lemonade,Beverages,160
+M463,R127,Veggie Burger,Burger,240
+M464,R128,Paneer Tikka,Starters,100
+M465,R128,Chilli Potato,Starters,170
+M466,R128,Greek Salad,Salads,320
+M467,R128,Spring Rolls,Starters,210
+M468,R128,Green Tossed Salad,Salads,250
+M469,R128,Nachos,Starters,250
+M470,R128,Paneer Butter Masala,Main Course,590
+M471,R128,Nachos,Starters,120
+M472,R129,Grilled Fish,Main Course,340
+M473,R129,Gulab Jamun,Desserts,130
+M474,R129,Chilli Potato,Starters,100
+M475,R129,Paneer Butter Masala,Main Course,580
+M476,R130,Dal Makhani,Main Course,410
+M477,R130,Green Tossed Salad,Salads,270
+M478,R130,Chicken Wings,Starters,120
+M479,R130,Dal Makhani,Main Course,340
+M480,R130,Paneer Tikka,Starters,150
+M481,R130,Fruit Salad,Salads,330
+M482,R130,Mutton Curry,Main Course,590
+M483,R130,Nachos,Starters,130
+M484,R131,Paneer Tikka,Starters,180
+M485,R131,Chilli Potato,Starters,200
+M486,R131,Veg Supreme Pizza,Pizza,590
+M487,R131,Mac and Cheese,Pasta,270
+M488,R131,Chicken Wings,Starters,240
+M489,R131,Lasagna,Pasta,390
+M490,R131,Lasagna,Pasta,380
+M491,R132,Naan,Breads,370
+M492,R132,Paneer Butter Masala,Main Course,250
+M493,R132,Paratha,Breads,180
+M494,R132,Chicken Wings,Starters,90
+M495,R132,Paneer Butter Masala,Main Course,370
+M496,R132,Nachos,Starters,90
+M497,R132,Dal Makhani,Main Course,300
+M498,R132,Naan,Breads,200
+M499,R133,Mojito,Beverages,190
+M500,R133,Lemonade,Beverages,130
+M501,R133,Lemonade,Beverages,230
+M502,R133,Paneer Butter Masala,Main Course,420
+M503,R133,Mutton Curry,Main Course,310
+M504,R133,Poha,Breakfast,100
+M505,R133,Upma,Breakfast,240
+M506,R134,Chilli Potato,Starters,230
+M507,R134,Schezwan Noodles,Noodles,330
+M508,R134,Pad Thai,Noodles,160
+M509,R134,Schezwan Fried Rice,Rice,320
+M510,R134,Schezwan Noodles,Noodles,180
+M511,R135,Chicken Wings,Starters,140
+M512,R135,Tiramisu,Desserts,220
+M513,R135,Chicken Tikka Masala,Main Course,590
+M514,R135,Ice Cream,Desserts,240
+M515,R136,Brownie,Desserts,240
+M516,R136,Iced Tea,Beverages,190
+M517,R136,Chocolate Cake,Cakes,240
+M518,R136,Fruit Cake,Cakes,390
+M519,R136,Mojito,Beverages,220
+M520,R136,Black Forest,Cakes,360
+M521,R136,Fruit Cake,Cakes,370
+M522,R137,French Fries,Sides,200
+M523,R137,Chicken Burger,Burger,310
+M524,R137,Lemonade,Beverages,150
+M525,R137,Cheese Burger,Burger,320
+M526,R138,Nachos,Starters,150
+M527,R138,Mac and Cheese,Pasta,160
+M528,R138,Lasagna,Pasta,260
+M529,R138,Farmhouse Pizza,Pizza,240
+M530,R138,Mac and Cheese,Pasta,180
+M531,R138,Cheese Burst,Pizza,340
+M532,R138,Chicken Wings,Starters,170
+M533,R139,Mutton Curry,Main Course,440
+M534,R139,Chicken Tikka Masala,Main Course,400
+M535,R139,Nachos,Starters,150
+M536,R139,Chicken Wings,Starters,220
+M537,R139,Ice Cream,Desserts,80
+M538,R139,Brownie,Desserts,110
+M539,R139,Ice Cream,Desserts,180
+M540,R140,Iced Tea,Beverages,160
+M541,R140,Upma,Breakfast,190
+M542,R140,Masala Dosa,Breakfast,240
+M543,R140,Mojito,Beverages,140
+M544,R140,Dal Makhani,Main Course,520
+M545,R140,Poha,Breakfast,80
+M546,R141,Masala Dosa,Breakfast,240
+M547,R141,Paneer Butter Masala,Main Course,340
+M548,R141,Cold Coffee,Beverages,220
+M549,R141,Lemonade,Beverages,100
+M550,R141,Iced Tea,Beverages,220
+M551,R141,Mango Shake,Beverages,150
+M552,R141,Masala Dosa,Breakfast,130
+M553,R141,Grilled Fish,Main Course,200
+M554,R142,Nachos,Starters,120
+M555,R142,Nachos,Starters,160
+M556,R142,Chilli Potato,Starters,230
+M557,R142,Fruit Salad,Salads,160
+M558,R143,Schezwan Noodles,Noodles,340
+M559,R143,Schezwan Noodles,Noodles,210
+M560,R143,Chilli Garlic Noodles,Noodles,370
+M561,R143,Pad Thai,Noodles,220
+M562,R143,Schezwan Noodles,Noodles,210
+M563,R144,Mutton Curry,Main Course,570
+M564,R144,Pasta Salad,Salads,380
+M565,R144,Paneer Tikka,Starters,200
+M566,R144,Caesar Salad,Salads,170
+M567,R144,Chicken Tikka Masala,Main Course,240
+M568,R144,Greek Salad,Salads,400
+M569,R144,Grilled Fish,Main Course,560
+M570,R145,Double Patty Burger,Burger,220
+M571,R145,Cheese Burger,Burger,190
+M572,R145,Cold Coffee,Beverages,180
+M573,R145,Chicken Burger,Burger,400
+M574,R145,Lemonade,Beverages,110
+M575,R145,Cold Coffee,Beverages,250
+M576,R145,French Fries,Sides,120
+M577,R146,Mango Shake,Beverages,240
+M578,R146,Paneer Butter Masala,Main Course,280
+M579,R146,Upma,Breakfast,150
+M580,R146,Aloo Paratha,Breakfast,210
+M581,R146,Mojito,Beverages,90
+M582,R147,Fruit Cake,Cakes,150
+M583,R147,Cold Coffee,Beverages,180
+M584,R147,Cheesecake,Desserts,100
+M585,R147,Tiramisu,Desserts,180
+M586,R148,Manchow Rice,Rice,220
+M587,R148,Schezwan Fried Rice,Rice,400
+M588,R148,Schezwan Noodles,Noodles,330
+M589,R148,Chilli Potato,Starters,120
+M590,R148,Manchow Rice,Rice,330
+M591,R149,Nachos,Starters,240
+M592,R149,Grilled Fish,Main Course,260
+M593,R149,Ice Cream,Desserts,150
+M594,R149,Chilli Potato,Starters,120
+M595,R150,Chilli Potato,Starters,110
+M596,R150,Chilli Potato,Starters,250
+M597,R150,Pad Thai,Noodles,250
+M598,R150,Pad Thai,Noodles,230
+M599,R150,Schezwan Noodles,Noodles,290
+M600,R151,Chicken Tikka Masala,Main Course,430
+M601,R151,Paneer Butter Masala,Main Course,460
+M602,R151,Chilli Potato,Starters,90
+M603,R151,Paneer Tikka,Starters,160
+M604,R151,Fruit Salad,Salads,170
+M605,R151,Dal Makhani,Main Course,520
+M606,R151,Pasta Salad,Salads,300
+M607,R151,Paneer Butter Masala,Main Course,300
+M608,R152,Spring Rolls,Starters,150
+M609,R152,Schezwan Fried Rice,Rice,160
+M610,R152,Pad Thai,Noodles,190
+M611,R152,Pad Thai,Noodles,210
+M612,R152,Paneer Tikka,Starters,200
+M613,R152,Fried Rice,Rice,360
+M614,R152,Pad Thai,Noodles,300
+M615,R152,Jeera Rice,Rice,350
+M616,R153,Chicken Tikka Masala,Main Course,250
+M617,R153,Chicken Tikka Masala,Main Course,320
+M618,R153,Chicken Wings,Starters,130
+M619,R153,Tiramisu,Desserts,250
+M620,R153,Chicken Tikka Masala,Main Course,460
+M621,R153,Spring Rolls,Starters,140
+M622,R153,Nachos,Starters,200
+M623,R154,Green Tossed Salad,Salads,220
+M624,R154,Pasta Salad,Salads,370
+M625,R154,Chilli Potato,Starters,230
+M626,R154,Greek Salad,Salads,270
+M627,R154,Mutton Curry,Main Course,290
+M628,R154,Chicken Tikka Masala,Main Course,370
+M629,R155,Ice Cream,Desserts,90
+M630,R155,Chicken Wings,Starters,180
+M631,R155,Spring Rolls,Starters,170
+M632,R155,Gulab Jamun,Desserts,220
+M633,R155,Tiramisu,Desserts,150
+M634,R155,Chilli Potato,Starters,230
+M635,R155,Ice Cream,Desserts,180
+M636,R156,Paneer Butter Masala,Main Course,550
+M637,R156,Dal Makhani,Main Course,470
+M638,R156,Dal Makhani,Main Course,340
+M639,R156,Ice Cream,Desserts,170
+M640,R156,Chicken Wings,Starters,90
+M641,R156,Grilled Fish,Main Course,280
+M642,R157,Fruit Salad,Salads,340
+M643,R157,Grilled Fish,Main Course,530
+M644,R157,Dal Makhani,Main Course,310
+M645,R157,Caesar Salad,Salads,300
+M646,R158,Cheese Burrito,Burritos,340
+M647,R158,Soft Tacos,Tacos,240
+M648,R158,Soft Tacos,Tacos,380
+M649,R158,Cheese Burrito,Burritos,180
+M650,R158,Veg Tacos,Tacos,230
+M651,R158,Bean Burrito,Burritos,280
+M652,R159,Hakka Noodles,Noodles,190
+M653,R159,Chilli Potato,Starters,100
+M654,R159,Chilli Potato,Starters,240
+M655,R159,Schezwan Fried Rice,Rice,350
+M656,R159,Chicken Wings,Starters,100
+M657,R159,Pan Fried Noodles,Noodles,360
+M658,R159,Paneer Tikka,Starters,170
+M659,R160,Grilled Fish,Main Course,310
+M660,R160,Pasta Salad,Salads,210
+M661,R160,Grilled Fish,Main Course,300
+M662,R160,Dal Makhani,Main Course,550
+M663,R161,Paneer Tikka,Starters,200
+M664,R161,Mac and Cheese,Pasta,220
+M665,R161,Cheese Burst,Pizza,460
+M666,R161,Arrabbiata Pasta,Pasta,160
+M667,R161,Spring Rolls,Starters,90
+M668,R161,Lasagna,Pasta,150
+M669,R162,Spring Rolls,Starters,180
+M670,R162,Manchow Rice,Rice,390
+M671,R162,Pulao,Rice,290
+M672,R162,Schezwan Fried Rice,Rice,310
+M673,R162,Fried Rice,Rice,310
+M674,R162,Paneer Tikka,Starters,240
+M675,R163,Onion Rings,Sides,250
+M676,R163,Crispy Burger,Burger,370
+M677,R163,Cheese Burger,Burger,300
+M678,R163,Mojito,Beverages,250
+M679,R163,Double Patty Burger,Burger,300
+M680,R164,Nachos,Starters,110
+M681,R164,Dal Makhani,Main Course,230
+M682,R164,Nachos,Starters,230
+M683,R164,Mutton Curry,Main Course,320
+M684,R164,Chicken Wings,Starters,100
+M685,R164,Tiramisu,Desserts,160
+M686,R164,Chilli Potato,Starters,250
+M687,R165,Nachos,Starters,140
+M688,R165,Pan Fried Noodles,Noodles,280
+M689,R165,Pad Thai,Noodles,160
+M690,R165,Spring Rolls,Starters,220
+M691,R165,Paneer Tikka,Starters,170
+M692,R165,Pulao,Rice,310
+M693,R166,Jeera Rice,Rice,180
+M694,R166,Nachos,Starters,100
+M695,R166,Chilli Garlic Noodles,Noodles,340
+M696,R166,Spring Rolls,Starters,100
+M697,R166,Schezwan Fried Rice,Rice,160
+M698,R167,Chilli Potato,Starters,160
+M699,R167,Spring Rolls,Starters,120
+M700,R167,Paneer Butter Masala,Main Course,490
+M701,R167,Nachos,Starters,100
+M702,R168,Spring Rolls,Starters,240
+M703,R168,Kulcha,Breads,390
+M704,R168,Garlic Naan,Breads,290
+M705,R168,Paneer Tikka,Starters,90
+M706,R168,Nachos,Starters,210
+M707,R168,Mutton Curry,Main Course,220
+M708,R168,Kulcha,Breads,310
+M709,R168,Roti,Breads,340
+M710,R169,Lasagna,Pasta,380
+M711,R169,Chicken Wings,Starters,150
+M712,R169,Cheese Burst,Pizza,600
+M713,R169,Spring Rolls,Starters,140
+M714,R170,Paneer Tikka,Starters,220
+M715,R170,Dal Makhani,Main Course,560
+M716,R170,Chilli Potato,Starters,240
+M717,R170,Ice Cream,Desserts,240
+M718,R170,Tiramisu,Desserts,120
+M719,R171,Masala Dosa,Breakfast,140
+M720,R171,Upma,Breakfast,150
+M721,R171,Dal Makhani,Main Course,510
+M722,R171,Mango Shake,Beverages,90
+M723,R171,Idli Sambhar,Breakfast,160
+M724,R171,Lemonade,Beverages,120
+M725,R171,Lemonade,Beverages,230
+M726,R172,Chicken Wings,Starters,220
+M727,R172,Paneer Tikka,Starters,200
+M728,R172,Chilli Garlic Noodles,Noodles,240
+M729,R172,Jeera Rice,Rice,180
+M730,R172,Pad Thai,Noodles,400
+M731,R173,Garlic Bread,Sides,130
+M732,R173,Potato Wedges,Sides,160
+M733,R173,Chicken Tacos,Tacos,360
+M734,R173,Chicken Burrito,Burritos,280
+M735,R173,Cheese Burrito,Burritos,200
+M736,R173,Cheese Dip,Sides,240
+M737,R173,Onion Rings,Sides,140
+M738,R174,Nachos,Starters,90
+M739,R174,Chilli Potato,Starters,220
+M740,R174,Veg Supreme Pizza,Pizza,550
+M741,R174,Lasagna,Pasta,280
+M742,R174,Lasagna,Pasta,340
+M743,R174,Paneer Tikka,Starters,100
+M744,R174,Farmhouse Pizza,Pizza,400
+M745,R175,Lemonade,Beverages,220
+M746,R175,Mango Shake,Beverages,200
+M747,R175,Mango Shake,Beverages,110
+M748,R175,Dal Makhani,Main Course,500
+M749,R175,Mojito,Beverages,100
+M750,R175,Mango Shake,Beverages,140
+M751,R175,Mojito,Beverages,120
+M752,R176,Cheese Dip,Sides,170
+M753,R176,Spicy Burrito,Burritos,230
+M754,R176,Bean Burrito,Burritos,170
+M755,R176,French Fries,Sides,190
+M756,R177,Paneer Butter Masala,Main Course,440
+M757,R177,Dal Makhani,Main Course,440
+M758,R177,Chilli Potato,Starters,230
+M759,R177,Roti,Breads,340
+M760,R177,Paneer Tikka,Starters,160
+M761,R178,Garlic Bread,Sides,120
+M762,R178,Cold Coffee,Beverages,140
+M763,R178,Crispy Burger,Burger,230
+M764,R178,Iced Tea,Beverages,150
+M765,R178,Mango Shake,Beverages,230
+M766,R179,Poha,Breakfast,190
+M767,R179,Chicken Tikka Masala,Main Course,260
+M768,R179,Lemonade,Beverages,90
+M769,R179,Mojito,Beverages,200
+M770,R179,Masala Dosa,Breakfast,90
+M771,R179,Lemonade,Beverages,140
+M772,R180,Chicken Tikka Masala,Main Course,550
+M773,R180,Lemonade,Beverages,140
+M774,R180,Mojito,Beverages,240
+M775,R180,Upma,Breakfast,100
+M776,R181,Mac and Cheese,Pasta,340
+M777,R181,Farmhouse Pizza,Pizza,360
+M778,R181,Lasagna,Pasta,380
+M779,R181,Lasagna,Pasta,160
+M780,R181,Arrabbiata Pasta,Pasta,170
+M781,R182,Lemonade,Beverages,180
+M782,R182,Mango Shake,Beverages,220
+M783,R182,Aloo Paratha,Breakfast,100
+M784,R182,Chicken Tikka Masala,Main Course,280
+M785,R182,Masala Dosa,Breakfast,140
+M786,R183,Upma,Breakfast,100
+M787,R183,Mango Shake,Beverages,100
+M788,R183,Idli Sambhar,Breakfast,140
+M789,R183,Masala Dosa,Breakfast,220
+M790,R183,Upma,Breakfast,230
+M791,R183,Dal Makhani,Main Course,460
+M792,R184,Dal Makhani,Main Course,580
+M793,R184,Spring Rolls,Starters,190
+M794,R184,Dal Makhani,Main Course,250
+M795,R184,Paneer Tikka,Starters,240
+M796,R184,Grilled Fish,Main Course,500
+M797,R184,Chicken Wings,Starters,100
+M798,R185,Caesar Salad,Salads,310
+M799,R185,Grilled Fish,Main Course,230
+M800,R185,Paneer Tikka,Starters,150
+M801,R185,Caesar Salad,Salads,380
+M802,R185,Pasta Salad,Salads,200
+M803,R186,Mutton Curry,Main Course,520
+M804,R186,Nachos,Starters,220
+M805,R186,Mutton Curry,Main Course,430
+M806,R186,Chicken Wings,Starters,100
+M807,R187,Chilli Potato,Starters,130
+M808,R187,Paneer Tikka,Starters,180
+M809,R187,Manchow Rice,Rice,290
+M810,R187,Chilli Garlic Noodles,Noodles,400
+M811,R188,Kulcha,Breads,230
+M812,R188,Paneer Butter Masala,Main Course,310
+M813,R188,Dal Makhani,Main Course,350
+M814,R188,Dal Makhani,Main Course,570
+M815,R189,Paneer Butter Masala,Main Course,270
+M816,R189,Gulab Jamun,Desserts,110
+M817,R189,Chicken Wings,Starters,110
+M818,R189,Chicken Wings,Starters,200
+M819,R190,Spring Rolls,Starters,100
+M820,R190,Gulab Jamun,Desserts,170
+M821,R190,Dal Makhani,Main Course,380
+M822,R190,Grilled Fish,Main Course,360
+M823,R190,Nachos,Starters,240
+M824,R190,Brownie,Desserts,140
+M825,R191,Veggie Burger,Burger,280
+M826,R191,Lemonade,Beverages,160
+M827,R191,Crispy Burger,Burger,210
+M828,R191,Chicken Burger,Burger,230
+M829,R191,Cheese Dip,Sides,170
+M830,R192,Margherita Pizza,Pizza,330
+M831,R192,Chilli Potato,Starters,190
+M832,R192,Spring Rolls,Starters,200
+M833,R192,Lasagna,Pasta,280
+M834,R192,Pepperoni Pizza,Pizza,210
+M835,R192,Chilli Potato,Starters,170
+M836,R192,Arrabbiata Pasta,Pasta,180
+M837,R193,Masala Dosa,Breakfast,250
+M838,R193,Upma,Breakfast,230
+M839,R193,Idli Sambhar,Breakfast,190
+M840,R193,Iced Tea,Beverages,240
+M841,R193,Mojito,Beverages,210
+M842,R193,Dal Makhani,Main Course,360
+M843,R193,Idli Sambhar,Breakfast,140
+M844,R193,Iced Tea,Beverages,120
+M845,R194,Spring Rolls,Starters,110
+M846,R194,Chicken Wings,Starters,100
+M847,R194,Grilled Fish,Main Course,320
+M848,R194,Nachos,Starters,210
+M849,R194,Nachos,Starters,190
+M850,R194,Spring Rolls,Starters,220
+M851,R194,Paneer Tikka,Starters,160
+M852,R195,Black Forest,Cakes,170
+M853,R195,Brownie,Desserts,240
+M854,R195,Vanilla Cake,Cakes,400
+M855,R195,Cheesecake,Desserts,120
+M856,R196,Greek Salad,Salads,350
+M857,R196,Fruit Salad,Salads,150
+M858,R196,Dal Makhani,Main Course,220
+M859,R196,Greek Salad,Salads,160
+M860,R196,Paneer Tikka,Starters,120
+M861,R196,Spring Rolls,Starters,250
+M862,R196,Dal Makhani,Main Course,560
+M863,R196,Chicken Tikka Masala,Main Course,290
+M864,R197,Fruit Salad,Salads,180
+M865,R197,Spring Rolls,Starters,110
+M866,R197,Chicken Wings,Starters,160
+M867,R197,Chilli Potato,Starters,190
+M868,R197,Nachos,Starters,100
+M869,R198,Grilled Fish,Main Course,430
+M870,R198,Spring Rolls,Starters,100
+M871,R198,Green Tossed Salad,Salads,240
+M872,R198,Grilled Fish,Main Course,210
+M873,R198,Chilli Potato,Starters,160
+M874,R198,Mutton Curry,Main Course,270
+M875,R199,Farmhouse Pizza,Pizza,540
+M876,R199,Lasagna,Pasta,360
+M877,R199,Paneer Tikka,Starters,110
+M878,R199,Spring Rolls,Starters,190
+M879,R199,Lasagna,Pasta,380
+M880,R199,Lasagna,Pasta,190
+M881,R199,Veg Supreme Pizza,Pizza,290
+M882,R199,Paneer Tikka,Starters,150
+M883,R200,Fruit Cake,Cakes,300
+M884,R200,Iced Tea,Beverages,130
+M885,R200,Cold Coffee,Beverages,180
+M886,R200,Cheesecake,Desserts,130
+M887,R200,Cheesecake,Desserts,200
+M888,R201,Idli Sambhar,Breakfast,160
+M889,R201,Upma,Breakfast,230
+M890,R201,Masala Dosa,Breakfast,220
+M891,R201,Aloo Paratha,Breakfast,240
+M892,R202,Brownie,Desserts,130
+M893,R202,Dal Makhani,Main Course,480
+M894,R202,Mutton Curry,Main Course,570
+M895,R202,Dal Makhani,Main Course,270
+M896,R202,Cheesecake,Desserts,180
+M897,R202,Mutton Curry,Main Course,370
+M898,R202,Brownie,Desserts,110
+M899,R203,Soft Tacos,Tacos,190
+M900,R203,Chicken Tacos,Tacos,340
+M901,R203,Crispy Tacos,Tacos,290
+M902,R203,Onion Rings,Sides,210
+M903,R203,Fish Tacos,Tacos,260
+M904,R203,Cheese Dip,Sides,150
+M905,R203,Bean Burrito,Burritos,150
+M906,R203,Veg Burrito,Burritos,300
+M907,R204,Garlic Bread,Sides,140
+M908,R204,Mango Shake,Beverages,150
+M909,R204,Lemonade,Beverages,240
+M910,R204,Veggie Burger,Burger,280
+M911,R204,Garlic Bread,Sides,230
+M912,R204,Onion Rings,Sides,180
+M913,R205,Chilli Potato,Starters,130
+M914,R205,Jeera Rice,Rice,360
+M915,R205,Chilli Potato,Starters,120
+M916,R205,Fried Rice,Rice,200
+M917,R205,Chicken Wings,Starters,130
+M918,R205,Manchow Rice,Rice,340
+M919,R206,Nachos,Starters,130
+M920,R206,Paratha,Breads,330
+M921,R206,Chicken Wings,Starters,230
+M922,R206,Spring Rolls,Starters,170
+M923,R206,Paratha,Breads,230
+M924,R207,Garlic Bread,Sides,220
+M925,R207,Lemonade,Beverages,130
+M926,R207,Cold Coffee,Beverages,120
+M927,R207,Chicken Burger,Burger,290
+M928,R207,Lemonade,Beverages,140
+M929,R208,Iced Tea,Beverages,130
+M930,R208,Masala Dosa,Breakfast,90
+M931,R208,Masala Dosa,Breakfast,150
+M932,R208,Aloo Paratha,Breakfast,190
+M933,R208,Grilled Fish,Main Course,560
+M934,R208,Mojito,Beverages,190
+M935,R209,Paneer Tikka,Starters,240
+M936,R209,Paratha,Breads,200
+M937,R209,Paratha,Breads,210
+M938,R209,Chicken Tikka Masala,Main Course,290
+M939,R209,Chicken Wings,Starters,180
+M940,R209,Grilled Fish,Main Course,340
+M941,R209,Chicken Wings,Starters,140
+M942,R209,Paratha,Breads,360
+M943,R210,Chilli Potato,Starters,140
+M944,R210,Paneer Butter Masala,Main Course,400
+M945,R210,Green Tossed Salad,Salads,170
+M946,R210,Green Tossed Salad,Salads,370
+M947,R210,Chicken Wings,Starters,200
+M948,R211,Chicken Tacos,Tacos,220
+M949,R211,Chicken Burrito,Burritos,250
+M950,R211,Chicken Burrito,Burritos,250
+M951,R211,Fish Tacos,Tacos,330
+M952,R212,Chilli Potato,Starters,200
+M953,R212,Farmhouse Pizza,Pizza,220
+M954,R212,Spring Rolls,Starters,140
+M955,R212,Cheese Burst,Pizza,540
+M956,R213,Chicken Burrito,Burritos,250
+M957,R213,Cheese Dip,Sides,190
+M958,R213,Onion Rings,Sides,80
+M959,R213,Soft Tacos,Tacos,280
+M960,R214,Paneer Butter Masala,Main Course,200
+M961,R214,Fruit Salad,Salads,210
+M962,R214,Caesar Salad,Salads,280
+M963,R214,Mutton Curry,Main Course,540
+M964,R214,Pasta Salad,Salads,370
+M965,R214,Green Tossed Salad,Salads,280
+M966,R214,Pasta Salad,Salads,340
+M967,R215,Spring Rolls,Starters,90
+M968,R215,Cheese Burst,Pizza,410
+M969,R215,Nachos,Starters,230
+M970,R215,Nachos,Starters,150
+M971,R216,Cold Coffee,Beverages,220
+M972,R216,Garlic Bread,Sides,170
+M973,R216,Chicken Burger,Burger,220
+M974,R216,Mojito,Beverages,230
+M975,R216,Crispy Burger,Burger,310
+M976,R216,Chicken Burger,Burger,380
+M977,R217,Lemonade,Beverages,210
+M978,R217,Mojito,Beverages,100
+M979,R217,Garlic Bread,Sides,240
+M980,R217,Cheese Dip,Sides,210
+M981,R217,Chicken Burger,Burger,180
+M982,R218,Mango Shake,Beverages,220
+M983,R218,Ice Cream,Desserts,110
+M984,R218,Brownie,Desserts,240
+M985,R218,Vanilla Cake,Cakes,300
+M986,R218,Gulab Jamun,Desserts,160
+M987,R218,Cold Coffee,Beverages,220
+M988,R219,Bean Burrito,Burritos,300
+M989,R219,Chicken Burrito,Burritos,280
+M990,R219,French Fries,Sides,120
+M991,R219,Crispy Tacos,Tacos,320
+M992,R219,Soft Tacos,Tacos,220
+M993,R219,Chicken Tacos,Tacos,250
+M994,R219,Chicken Tacos,Tacos,320
+M995,R219,Soft Tacos,Tacos,190
+M996,R220,Bean Burrito,Burritos,320
+M997,R220,Bean Burrito,Burritos,300
+M998,R220,Garlic Bread,Sides,190
+M999,R220,Soft Tacos,Tacos,300
+M1000,R220,Cheese Burrito,Burritos,240
+M1001,R221,Chicken Burger,Burger,340
+M1002,R221,Chicken Burger,Burger,260
+M1003,R221,Veggie Burger,Burger,250
+M1004,R221,Cheese Burger,Burger,360
+M1005,R221,Veggie Burger,Burger,170
+M1006,R221,Potato Wedges,Sides,80
+M1007,R222,Pasta Salad,Salads,180
+M1008,R222,Chicken Wings,Starters,170
+M1009,R222,Spring Rolls,Starters,210
+M1010,R222,Green Tossed Salad,Salads,180
+M1011,R223,Spring Rolls,Starters,160
+M1012,R223,Chilli Potato,Starters,140
+M1013,R223,Paneer Tikka,Starters,160
+M1014,R223,Chilli Potato,Starters,210
+M1015,R224,Veg Tacos,Tacos,380
+M1016,R224,Cheese Burrito,Burritos,220
+M1017,R224,Bean Burrito,Burritos,210
+M1018,R224,French Fries,Sides,140
+M1019,R224,Spicy Burrito,Burritos,200
+M1020,R224,Cheese Dip,Sides,120
+M1021,R225,Farmhouse Pizza,Pizza,340
+M1022,R225,Veg Supreme Pizza,Pizza,390
+M1023,R225,Farmhouse Pizza,Pizza,420
+M1024,R225,Mac and Cheese,Pasta,320
+M1025,R225,Pesto Pasta,Pasta,320
+M1026,R226,Veg Tacos,Tacos,400
+M1027,R226,Chicken Tacos,Tacos,260
+M1028,R226,Chicken Tacos,Tacos,260
+M1029,R226,Cheese Dip,Sides,100
+M1030,R226,Garlic Bread,Sides,100
+M1031,R227,Paneer Tikka,Starters,210
+M1032,R227,Paneer Tikka,Starters,240
+M1033,R227,Roti,Breads,290
+M1034,R227,Chicken Tikka Masala,Main Course,270
+M1035,R227,Chilli Potato,Starters,130
+M1036,R228,Iced Tea,Beverages,130
+M1037,R228,Ice Cream,Desserts,140
+M1038,R228,Lemonade,Beverages,110
+M1039,R228,Cold Coffee,Beverages,240
+M1040,R228,Vanilla Cake,Cakes,350
+M1041,R228,Cold Coffee,Beverages,120
+M1042,R228,Cold Coffee,Beverages,160
+M1043,R229,Naan,Breads,170
+M1044,R229,Garlic Naan,Breads,330
+M1045,R229,Paratha,Breads,260
+M1046,R229,Dal Makhani,Main Course,310
+M1047,R229,Paratha,Breads,310
+M1048,R229,Spring Rolls,Starters,210
+M1049,R229,Naan,Breads,390
+M1050,R229,Nachos,Starters,140
+M1051,R230,Nachos,Starters,250
+M1052,R230,Alfredo Pasta,Pasta,370
+M1053,R230,Margherita Pizza,Pizza,410
+M1054,R230,Nachos,Starters,90
+M1055,R230,Cheese Burst,Pizza,290
+M1056,R230,Lasagna,Pasta,320
+M1057,R231,Cold Coffee,Beverages,210
+M1058,R231,Cheese Dip,Sides,210
+M1059,R231,Potato Wedges,Sides,140
+M1060,R231,Double Patty Burger,Burger,280
+M1061,R231,Cheese Dip,Sides,90
+M1062,R231,French Fries,Sides,90
+M1063,R232,Mango Shake,Beverages,180
+M1064,R232,Iced Tea,Beverages,140
+M1065,R232,Veggie Burger,Burger,320
+M1066,R232,Lemonade,Beverages,220
+M1067,R232,Cold Coffee,Beverages,200
+M1068,R232,Veggie Burger,Burger,260
+M1069,R232,Mojito,Beverages,80
+M1070,R233,Aloo Paratha,Breakfast,110
+M1071,R233,Grilled Fish,Main Course,290
+M1072,R233,Cold Coffee,Beverages,150
+M1073,R233,Paneer Butter Masala,Main Course,240
+M1074,R233,Iced Tea,Beverages,210
+M1075,R234,Chicken Burger,Burger,260
+M1076,R234,Crispy Burger,Burger,390
+M1077,R234,Chicken Burger,Burger,250
+M1078,R234,Iced Tea,Beverages,240
+M1079,R234,Cheese Dip,Sides,190
+M1080,R235,Roti,Breads,150
+M1081,R235,Spring Rolls,Starters,140
+M1082,R235,Paratha,Breads,180
+M1083,R235,Naan,Breads,320
+M1084,R235,Kulcha,Breads,210
+M1085,R235,Mutton Curry,Main Course,300
+M1086,R235,Spring Rolls,Starters,220
+M1087,R236,Chicken Wings,Starters,100
+M1088,R236,Manchow Rice,Rice,280
+M1089,R236,Chilli Garlic Noodles,Noodles,160
+M1090,R236,Nachos,Starters,170
+M1091,R236,Hakka Noodles,Noodles,320
+M1092,R237,Cheese Dip,Sides,80
+M1093,R237,Garlic Bread,Sides,200
+M1094,R237,French Fries,Sides,90
+M1095,R237,Lemonade,Beverages,210
+M1096,R238,Aloo Paratha,Breakfast,120
+M1097,R238,Mutton Curry,Main Course,510
+M1098,R238,Paneer Butter Masala,Main Course,240
+M1099,R238,Poha,Breakfast,200
+M1100,R238,Upma,Breakfast,90
+M1101,R238,Mutton Curry,Main Course,340
+M1102,R239,Lasagna,Pasta,380
+M1103,R239,Veg Supreme Pizza,Pizza,500
+M1104,R239,Spring Rolls,Starters,230
+M1105,R239,Spring Rolls,Starters,240
+M1106,R239,Chicken Wings,Starters,110
+M1107,R239,Paneer Tikka,Starters,130
+M1108,R239,Pesto Pasta,Pasta,210
+M1109,R240,Chicken Tikka Masala,Main Course,480
+M1110,R240,Paneer Butter Masala,Main Course,390
+M1111,R240,Greek Salad,Salads,240
+M1112,R240,Grilled Fish,Main Course,390
+M1113,R240,Chicken Tikka Masala,Main Course,230
+M1114,R240,Paneer Butter Masala,Main Course,260
+M1115,R241,Chilli Garlic Noodles,Noodles,180
+M1116,R241,Schezwan Noodles,Noodles,180
+M1117,R241,Pan Fried Noodles,Noodles,330
+M1118,R241,Hakka Noodles,Noodles,180
+M1119,R242,Green Tossed Salad,Salads,350
+M1120,R242,Nachos,Starters,230
+M1121,R242,Nachos,Starters,130
+M1122,R242,Chicken Tikka Masala,Main Course,600
+M1123,R243,Kulcha,Breads,280
+M1124,R243,Paneer Butter Masala,Main Course,540
+M1125,R243,Nachos,Starters,200
+M1126,R243,Paratha,Breads,180
+M1127,R243,Naan,Breads,260
+M1128,R243,Paneer Butter Masala,Main Course,570
+M1129,R243,Naan,Breads,380
+M1130,R244,Lasagna,Pasta,360
+M1131,R244,Pepperoni Pizza,Pizza,590
+M1132,R244,Cheese Burst,Pizza,450
+M1133,R244,Alfredo Pasta,Pasta,320
+M1134,R244,Cheese Burst,Pizza,270
+M1135,R245,Chilli Potato,Starters,110
+M1136,R245,Chilli Potato,Starters,130
+M1137,R245,Chicken Tikka Masala,Main Course,240
+M1138,R245,Greek Salad,Salads,170
+M1139,R245,Mutton Curry,Main Course,400
+M1140,R245,Green Tossed Salad,Salads,310
+M1141,R246,Cheese Burrito,Burritos,170
+M1142,R246,Spicy Burrito,Burritos,180
+M1143,R246,Cheese Dip,Sides,90
+M1144,R246,Cheese Burrito,Burritos,370
+M1145,R247,Crispy Burger,Burger,170
+M1146,R247,Crispy Burger,Burger,370
+M1147,R247,Potato Wedges,Sides,180
+M1148,R247,Lemonade,Beverages,200
+M1149,R247,Mojito,Beverages,130
+M1150,R247,Lemonade,Beverages,140
+M1151,R247,French Fries,Sides,200
+M1152,R248,Paneer Butter Masala,Main Course,420
+M1153,R248,Dal Makhani,Main Course,530
+M1154,R248,Grilled Fish,Main Course,200
+M1155,R248,Tiramisu,Desserts,90
+M1156,R249,Cold Coffee,Beverages,240
+M1157,R249,Fruit Cake,Cakes,280
+M1158,R249,Vanilla Cake,Cakes,210
+M1159,R249,Black Forest,Cakes,260
+M1160,R249,Vanilla Cake,Cakes,290
+M1161,R250,Double Patty Burger,Burger,240
+M1162,R250,Lemonade,Beverages,240
+M1163,R250,Double Patty Burger,Burger,320
+M1164,R250,Cheese Dip,Sides,200
+M1165,R250,Mojito,Beverages,160
